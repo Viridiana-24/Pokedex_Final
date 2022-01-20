@@ -95,7 +95,7 @@ function App() {
           </button> )}
 
 
-          <button className='btn-abilities' onClick={()=>setButtonPopup(true)}>Abilities</button>
+          <button className='button' onClick={()=>setButtonPopup(true)}>Abilities</button>
           
         </div>
 
